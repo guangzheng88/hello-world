@@ -1,7 +1,8 @@
 {
-	"name": "lanjing-lijia/hello-world",
-	"version": "1.0.0",
-	"require": {
-		"monolog/monolog": "1.0.*"
+	"name": "ljlj/hello-world",
+	"description": "test composer",
+	"require": {},
+	"autoload": {
+		"psr-0": {"Test\\": "src/"}
 	}
 }
