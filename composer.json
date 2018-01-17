@@ -3,6 +3,6 @@
 	"description": "test composer",
 	"require": {},
 	"autoload": {
-		"psr-0": {"Test\\": "src/"}
+		"psr-0": {"Hello\\": ""}
 	}
 }
