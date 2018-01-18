@@ -1,5 +1,5 @@
 {
-	"name": "ljlj/hello-world",
+	"name": "ljlj/excel",
 	"description": "test composer",
 	"require": {
 		"php": ">=5.3.0"

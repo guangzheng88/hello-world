@@ -4,11 +4,11 @@
  * @author: 任广正
  * @date: 18-1-17
  */
-namespace Test;
+namespace lib;
 class Hello
 {
 	public function sayHello()
 	{
-		echo 'src -> Hello World';
+		echo 'lib -> say Hello World';
 	}
 }
